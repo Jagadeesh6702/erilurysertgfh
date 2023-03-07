@@ -1,0 +1,40 @@
+#div12{
+    border:2px dashed rgb(58, 41, 9);
+    width: 200px;
+    height: 150px;
+    background-color:green;
+}
+#outer{
+    border: 1px solid;
+    height: 300px;
+    width: 400px;
+    background-color: green;
+}
+#myDiv{
+    background-color: chartreuse;
+    height: 200px;
+    width: 200px;
+    border: 1px solid;   
+    position: relative;
+}
+#div1{
+    background-color: #221166;
+    height: 200px;
+    width: 200px;
+    border: 1px solid;   
+    position: relative;
+}
+
+#myCanvas{ 
+    border: 1px solid black;   
+}
+
+#canvas{
+    border: 1px solid black;
+}
+
+#canvas1{
+    border: 1px solid black;
+    background-color: crimson;
+}
+

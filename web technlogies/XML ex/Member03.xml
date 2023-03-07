@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee department="Deveopment" category="Eng">
+    <name>jagdeesh</name>
+    <position>manger</position>
+    <joinyear>2022</joinyear>
+    <salary>50000</salary>
+  </Employee>
+  <Employee department="Deveopment" category="Eng">
+    <name>Kesava</name>
+    <position>manger</position>
+    <joinyear>2022</joinyear>
+    <salary>50000</salary>
+  </Employee>
+  <Employee department="Deveopment" category="Eng">
+    <name>Syed</name>
+    <position>manger</position>
+    <joinyear>2022</joinyear>
+    <salary>50000</salary>
+  </Employee>
+</ArrayOfEmployee>

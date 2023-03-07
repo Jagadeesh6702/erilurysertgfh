@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <hardwareconfiguration>
+        <configuration>
+          <opco>Vodafone_UK</opco>
+          <elementname>STPPH1</elementname>
+          <productNo>ROJ 208 867/5</productNo>
+          <productName>GEP5-64-1200</productName>
+          <productRevision>R3A/A</productRevision>
+          <serialNumber>TU8GAT6151</serialNumber>
+          <vendor>Ericsson AB</vendor>
+          <unitLocation>8</unitLocation>
+          <hardwareType>AP</hardwareType>
+        </configuration>
+        <configuration>
+          <opco>Vodafone_UK</opco>
+          <elementname>STPPH1</elementname>
+          <productNo>ROJ 208 860/5</productNo>
+          <productName>GEP5-10GE</productName>
+          <productRevision>R3A</productRevision>
+          <serialNumber>TU8GBK0549</serialNumber>
+          <vendor>Ericsson AB</vendor>
+          <unitLocation>4</unitLocation>
+          <hardwareType>CP</hardwareType>
+        </configuration>
+        <configuration>
+          <opco>Vodafone_UK</opco>
+          <elementname>STPPH1</elementname>
+          <productNo>ROJ 208 867/5</productNo>
+          <productName>GEP5-64-1200</productName>
+          <productRevision>R3A</productRevision>
+          <serialNumber>TU8GAZ6702</serialNumber>
+          <vendor>Ericsson AB</vendor>
+          <unitLocation>6</unitLocation>
+          <hardwareType>AP</hardwareType>
+        </configuration>
+        <configuration>
+          <opco>Vodafone_UK</opco>
+          <elementname>STPPH1</elementname>
+          <productNo>ROJ 208 890/2</productNo>
+          <productName>GEA</productName>
+          <productRevision>R1A</productRevision>
+          <serialNumber>TU8GBJ2312</serialNumber>
+          <vendor>Ericsson AB</vendor>
+          <unitLocation>24</unitLocation>
+          <hardwareType>AP</hardwareType>
+        </configuration>
+        <configuration>
+          <opco>Vodafone_UK</opco>
+          <elementname>STPPH1</elementname>
+          <productNo>ROJ 208 860/5</productNo>
+          <productName>GEP5-10GE</productName>
+          <productRevision>R3A</productRevision>
+          <serialNumber>TU8GBK0560</serialNumber>
+          <vendor>Ericsson AB</vendor>
+          <unitLocation>1</unitLocation>
+          <hardwareType>CP</hardwareType>
+        </configuration>
+        <configuration>
+          <opco>Vodafone_UK</opco>
+          <elementname>STPPH1</elementname>
+          <productNo></productNo>
+          <productName></productName>
+          <productRevision></productRevision>
+          <serialNumber></serialNumber>
+          <vendor></vendor>
+          <unitLocation>3</unitLocation>
+          <hardwareType>CP</hardwareType>
+        </configuration>
+      </hardwareconfiguration>

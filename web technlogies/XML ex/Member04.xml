@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMember xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Member PlatinumMember="true">
+    <Name>Kesava</Name>
+    <Email>Kesava12@gmail.com</Email>
+    <Age>22</Age>
+    <JoiningDate>2023-03-03T10:15:55.2870872+05:30</JoiningDate>
+  </Member>
+  <Member PlatinumMember="false">
+    <Name>Jagdeesh</Name>
+    <Email>Jagdeesh12@gmail.com</Email>
+    <Age>22</Age>
+    <JoiningDate>2023-03-03T10:15:55.2912205+05:30</JoiningDate>
+  </Member>
+  <Member PlatinumMember="true">
+    <Name>Syed</Name>
+    <Email>Syed12@gmail.com</Email>
+    <Age>22</Age>
+    <JoiningDate>2023-03-03T10:15:55.2912218+05:30</JoiningDate>
+  </Member>
+</ArrayOfMember>
